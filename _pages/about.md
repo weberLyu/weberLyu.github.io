@@ -16,9 +16,9 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-👋 Hi, everyone! I am currently pursuing my master's degree at Harbin Institute of Technology, shenzhen. I have been under supervision of [Prof.Liqiang Nie](https://scholar.google.com/citations?hl=en&user=yywVMhUAAAAJ). I am interested in VLM and GUI-agents. More specifically, my research focuses on improving the **efficiency** of MLLMs, as well as exploring **search and recommendation tasks** within MLLMs.
+👋 Hi, everyone! I am currently pursuing my master's degree at Harbin Institute of Technology, shenzhen. I have been under supervision of [Prof.Liqiang Nie](https://scholar.google.com/citations?hl=en&user=yywVMhUAAAAJ). I am interested in VLM and GUI-agent. More specifically, my research focuses on improving the **efficiency** of MLLMs, as well as exploring **search and recommendation tasks** within MLLMs.
 
-At the same time, influenced positively by advisor, I’ve also developed a strong interest in running. I completed a **full marathon**(42.195km) in Shijiazhuang, China, in March 2024.
+At the same time, I’ve also developed a strong interest in running. I completed a **full marathon** (42.195 km) in Shijiazhuang, China(2024.03).
 
 # 🔥 News
 - *2025.07*: &nbsp;🎉🎉 Two paper have been accepted by ACM MM 2025!
@@ -32,7 +32,7 @@ At the same time, influenced positively by advisor, I’ve also developed a stro
 - *2022.12* **Huawei Intelligent Foundation Scholarship**, Huaiwei Inc.
 
 # 🏆 Competitions
-- *2022.11* The 3rd China Collegiate Computing Contest-Artificial Intelligence Innovation Contest(C4-AI) **National First Prize&Best Application Award**🏆
+- *2022.11* The 3rd China Collegiate Computing Contest-Artificial Intelligence Innovation Contest(C4-AI) **National First Prize & Best Application Award**🏆
 - *2021.11* The 2th China Collegiate Computing Contest-Artificial Intelligence Innovation Contest(C4-AI) **National First Prize**🏆
 - *2023.04* Software Innovation Competition **National Third Prize**
 - *2022.10* Mathematical Modeling Competition **Provincial First Prize**
