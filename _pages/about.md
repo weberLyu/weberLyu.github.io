@@ -16,64 +16,27 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-👋 Hi, everyone! I am currently pursuing my master's degree at Harbin Institute of Technology, Shenzhen. I have been under supervision of [Prof. Liqiang Nie](https://scholar.google.com/citations?hl=en&user=yywVMhUAAAAJ). I am interested in VLM and GUI-agents. More specifically, my research focuses on improving the efficiency of MLLMs, as well as exploring **search and recommendation tasks** within MLLMs.
+👋 Hi, everyone! I am currently pursuing my master's degree at Harbin Institute of Technology, shenzhen. I have been under supervision of [Prof.Liqiang Nie](https://scholar.google.com/citations?hl=en&user=yywVMhUAAAAJ). I am interested in VLM and GUI-agents. More specifically, my research focuses on improving the **efficiency** of MLLMs, as well as exploring **search and recommendation tasks** within MLLMs.
+
+At the same time, influenced positively by advisor, I’ve also developed a strong interest in running. I completed a **full marathon**(42.195km) in Shijiazhuang, China, in March 2024.
 
 # 🔥 News
-- *Now*: I am looking for a PhD position in natural language processing (NLP) / computing social science (CSS).
-- *2024.10*: &nbsp;🎉🎉 Our paper "Economics Arena for Large Language Models" (co-first author) has been accepted by Neurips 2024 Workshop LanGame!
-- *2024.09*: &nbsp;🎉🎉 Our paper "UNO Arena for Evaluating Sequential Decision-Making Capability of Large Language Models" (second author) has been accepted by EMNLP 2024 Main Conference!
+- *2025.07*: &nbsp;🎉🎉 Two paper have been accepted by ACM MM 2025!
+- *2025.07*: &nbsp;🎉🎉 One paper has been accepted by ICCV 2025!
+- *2024.06*: &nbsp;I received my bachelor's degree from Harbin Institute of Technology!
 
-
-# 📝 Publications 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv Preprint</div><img src='images/tmgbench.png' alt="sym" width="50%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[TMGBench: A Systematic Game Benchmark for Evaluating Strategic Reasoning Abilities of LLMs](https://arxiv.org/pdf/2410.10479)
-
-**Haochuan Wang**, Xiachong Feng, Lei Li, Zhanyue Qin, Dianbo Sui, Lingpeng Kong
-
-</div>
-</div>
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2024 Main Conference</div><img src='images/unoarena.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[UNO Arena for Evaluating Sequential Decision-Making Capability of Large Language Models](https://arxiv.org/pdf/2406.16382)
-
-Zhanyue Qin, **Haochuan Wang**, Deyuan Liu, Ziyang Song, Cunhang Fan, Zhao Lv, Jinlin Wu, Zhen Lei, Zhiying Tu, Dianhui Chu, Xiaoyan Yu, Dianbo Sui
-
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Neurips 2024 Workshop LanGame</div><img src='images/econarena.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Economics Arena for Large Language Models](https://arxiv.org/abs/2401.01735)
-
-Shangmin Guo\*, Haoran Bu\*, **Haochuan Wang\***, Yi Ren, Dianbo Sui, Yuming Shang, Siting Lu
-
-*Equally contributed.
-</div>
-</div>
 
 # 🎖 Honors and Awards
-- *2024.06* Mucang Scholarship, Faculty of Computing, Harbin Institute of Technology.
-- *2022.12* National Scholarship, Ministry of Education of the People's Republic of China.
-- *2022.06* First-Class Renmin Scholarship, Harbin Institute of Technology, Weihai Campus.
+- *2024.06* **Outstanding graduates**, Harbin Institute of Technology.
+- *2023.10* **National Scholarship**, Ministry of Education of the People's Republic of China.
+- *2022.12* **Huawei Intelligent Foundation Scholarship**, Huaiwei Inc.
 
 # 🏆 Competitions
-- *2024.01* The First IMC Challenge powered by Huawei, Problem A: 22nd Place
-- *2023.06* The 2023 Weihai Collegiate Programming Contest: Championship🏆
-- *2022.10* The 2022 CCPC Guangzhou Site Programming Contest: Silver Medal🥈
-- *2022.07* The 46th ACM-ICPC Asia East-Continent Final: Bronze Medal🥉
-- *2021.11* The 46th ACM-ICPC Asia Regional Contest, Shenyang: Gold Medal🥇
-- *2021.11* The 46th ACM-ICPC Asia Regional Contest, Jinan: Gold Medal🥇
+- *2022.11* The 3rd China Collegiate Computing Contest-Artificial Intelligence Innovation Contest(C4-AI) **National First Prize&Best Application Award**🏆
+- *2021.11* The 2th China Collegiate Computing Contest-Artificial Intelligence Innovation Contest(C4-AI) **National First Prize**🏆
+- *2023.04* Software Innovation Competition **National Third Prize**
+- *2022.10* Mathematical Modeling Competition **Provincial First Prize**
 
-# 📖 Educations
-- *2021.09 - 2025.06 (Expected)*, Harbin Institute of Technology, Weihai, China. B.S. in Computer Science and Technology.
-- *2018.09 - 2021.06*, Hangzhou Xuejun High School, Hangzhou, China. Middle School Diploma.
 
 # 💻 Internships
-- *2024.07 - 2024.08*, [HKU NLP Group](https://hkunlp.github.io/), Hong Kong SAR, China.
+- *2022.12 - 2023.06*, [IIIS Mars Lab](https://group.iiis.tsinghua.edu.cn/~marslab/#/), supervised by [Prof.Hang Zhao](https://hangzhaomit.github.io/).
