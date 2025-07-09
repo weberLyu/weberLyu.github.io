@@ -16,13 +16,12 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-👋 Hi, everyone! I am currently a senior undergraduate at Harbin Institute of Technology, Weihai Campus, China. I have been under supervision of [Prof. Dianbo Sui](https://scholar.google.com/citations?user=yi639zEAAAAJ&hl=en). I am interested in combining AI (ML/LLM) with social science.
+👋 Hi, everyone! I am currently pursuing my master's degree at Harbin Institute of Technology, Shenzhen. I have been under supervision of [Prof. Liqiang Nie](https://scholar.google.com/citations?hl=en&user=yywVMhUAAAAJ). I am interested in VLM and GUI-agents. More specifically, my research focuses on improving the efficiency of MLLMs, as well as exploring **search and recommendation tasks** within MLLMs.
 
 # 🔥 News
 - *Now*: I am looking for a PhD position in natural language processing (NLP) / computing social science (CSS).
 - *2024.10*: &nbsp;🎉🎉 Our paper "Economics Arena for Large Language Models" (co-first author) has been accepted by Neurips 2024 Workshop LanGame!
 - *2024.09*: &nbsp;🎉🎉 Our paper "UNO Arena for Evaluating Sequential Decision-Making Capability of Large Language Models" (second author) has been accepted by EMNLP 2024 Main Conference!
-- *2024.08*: I have completed my summer internship at [HKU NLP group](https://hkunlp.github.io/), supervised by [Prof. Lingpeng Kong](https://scholar.google.com/citations?user=f1hBi5wAAAAJ&hl=zh-CN).
 
 
 # 📝 Publications 

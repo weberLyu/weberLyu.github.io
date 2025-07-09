@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Haochuan's Homepage"
-description              : "To be a maverick in the era"
-repository               : "PinkEx/pinkex.github.io"
+title                    : "Weber's Homepage"
+description              : "Try to do real research"
+repository               : "weberlyu/weberlyu.github.io/"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,14 +21,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Haochuan Wang"
-  avatar           : "images/google_scholar_square.jpg"
-  bio              : "CS undergraduate"
-  location         : "Weihai, China"
+  name             : "Yibo Lyu"
+  avatar           : "images/old.jpg"
+  bio              : "CS"
+  location         : "Shenzhen, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?hl=en&user=FXRaIuMAAAAJ"
-  email            : "pinkexsu0v0@gmail.com"
+  googlescholar    : 
+  email            : "weberlv1b@gmail.com"
   researchgate     :
   uri              :
   bitbucket        :
