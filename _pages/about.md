@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 👋 Hi, everyone! I am currently pursuing my master's degree at Harbin Institute of Technology, shenzhen. I have been under supervision of [Prof.Liqiang Nie](https://scholar.google.com/citations?hl=en&user=yywVMhUAAAAJ). I am interested in VLM and GUI-agent. More specifically, my research focuses on improving the **efficiency** of MLLMs, as well as exploring **search and recommendation tasks** within MLLMs.
 
-At the same time, I’ve also developed a strong interest in running. I completed a **full marathon** (42.195 km) in Shijiazhuang, China(2024.03).
+At the same time, I’m also interesting in running and other sports. I completed a **full marathon** (42.195 km) in Shijiazhuang, China(2024.03).
 
 # 🔥 News
 - *2025.07*: &nbsp;🎉🎉 Two paper have been accepted by ACM MM 2025!
